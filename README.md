@@ -1,2 +1,2 @@
-# adminpanel
+# Admin Panel
 Custom Admin Panel 
