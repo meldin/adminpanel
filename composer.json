@@ -1,11 +1,11 @@
 {
-    "name": "Admin Panel",
+    "name": "meldin/adminpanel",
     "description": "Custom Admin Panel",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Meldin Xavier",
             "email": "meldinxavier@gmail.com"
         }
-    ],
-    "require": {}
+    ]
 }
